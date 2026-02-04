@@ -9,6 +9,11 @@
 
 
 <br clear="right"/>
+<div align="center">
+  <a href="https://prithvicv.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-Visit_Live_Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
 
 
 
