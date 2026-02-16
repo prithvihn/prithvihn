@@ -3,8 +3,11 @@
   <img src="assets/coding.gif" width="40%" style="max-width:600px;">
 </div>
 
-
-🚀 Passionate Computer Science student exploring the intersection of Software Development and Data Science.<br>💡 I love building intelligent systems that turn data into impactful solutions.<br>🧠 Currently working on projects in AI, Data Science, and full-stack development.<br>🌱 Always learning, experimenting, and pushing code that solves real-world problems.<br>
+<div align="center">
+<br> <h2>Hi, I'm Prithvi HN 👋</h2></br>
+<h2>Computer Science Student | AI Focused Builder | Backend Developer</h2>
+</div>
+🚀 Passionate Computer Science student exploring the intersection of Software Development and Data Science.<br>💡 I love building intelligent systems that turn data into impactful solutions.<br>🧠 Currently working on projects in AI, Data Science, and full-stack development.</br>
 🖥️ All my projects are available on 
 <a href="https://github.com/prithvihn?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -20,8 +23,10 @@
 
 
 
-## 🌐 Socials:
+
+  ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prithvihn5117) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prithvi_hn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prithvi-hn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrithviHn95905) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prithvihn02@gmail.com) 
+
 
 
 
