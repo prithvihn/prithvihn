@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="assets/coding.gif">
+<img align="right" alt="Coding" width="300" src="assets/coding.gif">
 
 🚀 Passionate Computer Science student exploring the intersection of Software Development and Machine Learning.<br>💡 I love building intelligent systems that turn data into impactful solutions.<br>🧠 Currently working on projects in AI, Data Science, and full-stack development.<br>🌱 Always learning, experimenting, and pushing code that solves real-world problems.<br>
 🖥️ All my projects are available on 
