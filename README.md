@@ -38,6 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvihn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=435&lines=AI+%7C+Backend+Engineer;Building+Intelligent+Systems;Full-Stack+Developer;Always+Learning+Always+Shipping" />
 
 
