@@ -1,7 +1,10 @@
 # 💫 About Me:
-<img style="float:right; margin-left:20px;" alt="Coding" width="400" src="assets/coding.gif">
+<div align="center">
+  <img src="assets/coding.gif" width="40%" style="max-width:600px;">
+</div>
 
-🚀 Passionate Computer Science student exploring the intersection of Software Development and Machine Learning.<br>💡 I love building intelligent systems that turn data into impactful solutions.<br>🧠 Currently working on projects in AI, Data Science, and full-stack development.<br>🌱 Always learning, experimenting, and pushing code that solves real-world problems.<br>
+
+🚀 Passionate Computer Science student exploring the intersection of Software Development and Data Science.<br>💡 I love building intelligent systems that turn data into impactful solutions.<br>🧠 Currently working on projects in AI, Data Science, and full-stack development.<br>🌱 Always learning, experimenting, and pushing code that solves real-world problems.<br>
 🖥️ All my projects are available on 
 <a href="https://github.com/prithvihn?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
