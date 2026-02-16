@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-<img align="right" alt="Coding" width="300" src="assets/coding.gif">
+<img style="float:right; margin-left:20px;" alt="Coding" width="400" src="assets/coding.gif">
 
 🚀 Passionate Computer Science student exploring the intersection of Software Development and Machine Learning.<br>💡 I love building intelligent systems that turn data into impactful solutions.<br>🧠 Currently working on projects in AI, Data Science, and full-stack development.<br>🌱 Always learning, experimenting, and pushing code that solves real-world problems.<br>
 🖥️ All my projects are available on 
@@ -30,8 +29,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prithvihn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvihn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prithvihn&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=435&lines=AI+%7C+Backend+Engineer;Building+Intelligent+Systems;Full-Stack+Developer;Always+Learning+Always+Shipping" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
